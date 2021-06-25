@@ -1,5 +1,5 @@
 {
-  "name": "limenius/liformkluz",
+  "name": "limenius/liform",
   "description": "Library to transform Symfony Forms into Json Schema",
   "type": "library",
   "license": "MIT",
